@@ -20,18 +20,6 @@ This is my personal portfolio showcasing my journey and projects in **data analy
 
 ---
 
-### 💼 Experience  
-📊 **Data Analyst Trainee — Internship Project (Academic Focus)**  
-UniKL MIDI — *2025*  
-- Developed interactive dashboards using **Power BI** to visualize business and operational performance.  
-- Cleaned and transformed data using **Power Query** and **Excel**.  
-- Presented actionable insights to improve decision-making efficiency.  
-
-📈 **Business Management Project — KPTM (Final Year)**  
-💬 *My background in Business Management provides me with a strong foundation in organizational and analytical thinking. Combined with my current studies in Technology Management, I focus on using data and BI tools to improve business decision-making.* 
-
----
-
 ### 🛠️ Tech Stack  
 **Tools:** Power BI · Excel · Google Sheets · Canva  
 **Skills:** Data Analysis · Dashboard Building · Business Reporting · BI Tools  
